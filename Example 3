@@ -1,0 +1,16 @@
+class Student{
+private int marks;
+public void setMarks(int m){
+marks = m;
+}
+public int get marks(){
+returm marks;
+}
+}
+public class main{
+public static void (string[]args){
+student s = new.student();
+s.setMarks(90);
+system.out.println(s.get Marks());
+}
+}
